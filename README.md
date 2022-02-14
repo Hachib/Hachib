@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hachib
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning user experience enhancement
-- 💞️ I’m looking to collaborate on new startups and small companies to provide design services.
+- 💞️ I’m looking to collaborate with new startups and small companies to provide design services.
 - 📫 How to reach me --> email me: mdhachib2@gmail.com
 
 <!---
